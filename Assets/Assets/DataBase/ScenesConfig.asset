@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d2d2a5b03ba4cb19bd073a2c3b46848, type: 3}
+  m_Name: ScenesConfig
+  m_EditorClassIdentifier: 
+  _sceneMappings:
+  - sceneType: 1
+    sceneName: Bootstrap
+  - sceneType: 2
+    sceneName: Fitghter_2d
+  - sceneType: 3
+    sceneName: Fitghter_3d
